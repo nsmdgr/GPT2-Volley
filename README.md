@@ -1,3 +1,3 @@
-# GPT2-Volley
+# GPT-2 Slimevolley
 
 Can GPT2 play ![Volleyball](https://github.com/hardmaru/slimevolleygym)? Not yet...
